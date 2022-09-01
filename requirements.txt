@@ -1,0 +1,7 @@
+gradio==3.2
+matplotlib==3.5.1
+numpy==1.21.5
+pandas==1.4.2
+plotly==5.1.0
+scikit_learn==1.1.2
+seaborn==0.11.2
